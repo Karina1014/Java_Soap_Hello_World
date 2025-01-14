@@ -2,9 +2,6 @@
 ## 📖 Project Overview
 This project showcases a simple SOAP web service built with Spring Boot. The web service provides a basic Hello World feature using the SOAP protocol.
 
-
-
-
 ## 🏁 Setup Instructions
 ### ⚙️ Requirements
 Before running this project, make sure you have Java 17.0.12 (or a compatible version) and Maven installed on your system.
@@ -38,8 +35,8 @@ mvn -version
  ```
 - Set the request headers:
 
-    - Key: Content-Type
-    - Value: application/json
+  ![image](https://github.com/user-attachments/assets/0f034c72-bf1e-408e-84eb-8e417ef8cb27)
+
 
 - Set the body to raw and select JSON format, then input
 ```sh
@@ -54,6 +51,7 @@ mvn -version
 
 # Result
 
+![image](https://github.com/user-attachments/assets/8a62e1aa-72f1-4c7d-8a20-9ac02bff736b)
 
 
 
